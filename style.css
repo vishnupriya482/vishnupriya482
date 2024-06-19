@@ -33,4 +33,28 @@ nav ul li a{
 nav ul li a:hover{
     color:#696969;
 }
+.intro{
+    margin:30% 15%;
+}
+.intro h1{
+    font-size: 60px;
+    color:#212121;
+    margin-bottom: 20px;
+}
+.intro p{
+    color:brown;
+    font-size:40px;
+    font-family:times new roman;
+}
+.intro a{
+    background: black;
+    padding: 20px 20px;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    margin:30px;
+}
+.intro a:hover{
+    color:brown;
+}
   
