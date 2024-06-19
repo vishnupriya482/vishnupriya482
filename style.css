@@ -16,7 +16,8 @@ nav{
     align-items:center;
     justify-content: space-between;
     color: #36454F;
-    font-family:Goudy Old Style;
+    font-family:crusive;
+    font-size:40px;
 }
 nav ul li{
     display: inline-block;
