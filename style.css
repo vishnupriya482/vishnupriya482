@@ -61,8 +61,11 @@ nav ul li a:hover{
     width: 45%;
     height: 45%;
     position:absolute;
-    bottom: 0;
-    right: 100px;
+    bottom: 550px;
+    right: 50px;
+    left: 1100px;
+    top: 200px;
+    
 }
     
     
