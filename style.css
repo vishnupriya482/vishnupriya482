@@ -57,4 +57,13 @@ nav ul li a:hover{
 .intro a:hover{
     color:brown;
 }
+.image{
+    width: 45%;
+    height: 45%;
+    position:absolute;
+    bottom: 0;
+    right: 100px;
+}
+    
+    
   
