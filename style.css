@@ -67,21 +67,6 @@ nav ul li a:hover{
     top: 200px;
     
 }
-body .data{
-    width: 84%;
-    margin: auto;
-    padding: 20px;
-    background-color:#C5F6F2;
-}
-.data h1{
-    color:#0F4254;
-    font-family:Eras Medium ITC;
-    font-size: 50px;
-}
-.data p{
-    color:#6B8CA9;
-    font-family:Times new Roman;
-    font-size: 30px;
-}
+
     
   
